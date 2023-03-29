@@ -15,6 +15,6 @@ public class Main {
             System.out.println(tree1.search(toSearch[j]));
         }
 
-        //we update stuff
+        //goodbye
     }
 }
