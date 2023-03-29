@@ -11,7 +11,7 @@ public class Main {
             tree1.insert(toAdd[i]);
         }
 
-        for(int j=0; j<6; j++){
+        for(int j=0; j<6; j++) {
             System.out.println(tree1.search(toSearch[j]));
         }
 
